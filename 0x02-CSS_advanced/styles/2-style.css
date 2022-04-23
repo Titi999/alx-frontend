@@ -1,3 +1,8 @@
+/* Effortless transitions when scrolling */
+html{
+    scroll-behavior: smooth;
+}
+
 /* color values */
 body{
     color: #161616;
